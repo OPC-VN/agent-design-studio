@@ -81,27 +81,27 @@ else; the references and templates need no runtime.
 **Claude Code** (2.1.275 or later, one step)
 
 ```
-/plugin install agent-design-studio --marketplace ducnguyen221/agent-design-studio
+/plugin install agent-design-studio --marketplace OPC-VN/agent-design-studio
 ```
 
 Older versions add the marketplace first:
 
 ```
-/plugin marketplace add ducnguyen221/agent-design-studio
+/plugin marketplace add OPC-VN/agent-design-studio
 /plugin install agent-design-studio
 ```
 
 **Codex**
 
 ```
-codex plugin marketplace add ducnguyen221/agent-design-studio
+codex plugin marketplace add OPC-VN/agent-design-studio
 codex plugin add agent-design-studio@agent-design-studio
 ```
 
 **Any other agent that reads `SKILL.md`**
 
 ```bash
-git clone https://github.com/ducnguyen221/agent-design-studio
+git clone https://github.com/OPC-VN/agent-design-studio
 cp -r agent-design-studio/skills/design-routing ~/.agents/skills/
 cp -r agent-design-studio/skills/design-system ~/.agents/skills/
 cp -r agent-design-studio/scripts ~/.agents/scripts

@@ -81,27 +81,27 @@ gì khác; tài liệu tham chiếu và mẫu không cần runtime.
 **Claude Code** (2.1.275 trở lên, một bước)
 
 ```
-/plugin install agent-design-studio --marketplace ducnguyen221/agent-design-studio
+/plugin install agent-design-studio --marketplace OPC-VN/agent-design-studio
 ```
 
 Bản cũ hơn thêm marketplace trước:
 
 ```
-/plugin marketplace add ducnguyen221/agent-design-studio
+/plugin marketplace add OPC-VN/agent-design-studio
 /plugin install agent-design-studio
 ```
 
 **Codex**
 
 ```
-codex plugin marketplace add ducnguyen221/agent-design-studio
+codex plugin marketplace add OPC-VN/agent-design-studio
 codex plugin add agent-design-studio@agent-design-studio
 ```
 
 **Bất kỳ agent nào đọc được `SKILL.md`**
 
 ```bash
-git clone https://github.com/ducnguyen221/agent-design-studio
+git clone https://github.com/OPC-VN/agent-design-studio
 cp -r agent-design-studio/skills/design-routing ~/.agents/skills/
 cp -r agent-design-studio/skills/design-system ~/.agents/skills/
 cp -r agent-design-studio/scripts ~/.agents/scripts

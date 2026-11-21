@@ -2,7 +2,7 @@
 
 **Run:** `2026-08-24-site-v2` · **Started/finished:** 2026-08-24
 **Supersedes:** `../2026-08-24-agent-design-studio-site/` (v1.0, shipped and then rejected)
-**Deliverable:** `docs/index.html` in `ducnguyen221/agent-design-studio` — the public page
+**Deliverable:** `docs/index.html` in `OPC-VN/agent-design-studio` — the public page
 at `ducnguyen.vn/agent-design-studio`
 
 ## Where this stands
