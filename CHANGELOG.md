@@ -2,6 +2,10 @@
 
 All notable changes to this pack. Newest first.
 
+## Unreleased
+
+- ECOSYSTEM and README: point to the merged skill-standards workshop (opcos-core) and the OPC-VN Pages URL.
+
 ## 1.5.0 — 2026-10-26
 
 - Third-party notices (sprint P3, TK7): `NOTICE` and `LICENSES/` record four upstream works that contributed ideas or short passages, with owner, license, revision, derivation level and keep/drop decision. No third-party file is redistributed.
