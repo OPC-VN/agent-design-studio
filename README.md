@@ -10,7 +10,7 @@ skill creates, extracts, audits, documents and extends the system a product owns
 folder of files that imports into Claude Design and that any agent can read. Both leave
 traceable artifacts; the UI process keeps its two human decision gates.
 
-🔗 **[ducnguyen221.github.io/agent-design-studio](https://ducnguyen221.github.io/agent-design-studio)** ·
+🔗 **[opc-vn.github.io/agent-design-studio](https://opc-vn.github.io/agent-design-studio)** ·
 🇻🇳 **[Tiếng Việt](README.vi.md)**
 
 ---
